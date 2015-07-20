@@ -1,0 +1,122 @@
+﻿生成启动时间为 7/20/2015 10:56:29 AM。
+     1>项目“F:\myProjects\pptHandController1\pptHandController1\pptHandController1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\pptHandController1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         F:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt codeBook.cpp CvvImage.cpp gmm.cpp handGesture.cpp handMotion.cpp myROI.cpp pptHandController1.cpp pptHandController1Dlg.cpp ProgressDlg.cpp workthreads.cpp
+         workthreads.cpp
+     1>f:\program files (x86)\opencv3.0\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\program files (x86)\opencv3.0\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\program files (x86)\opencv3.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\workthreads.cpp(113): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 f:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(937) : 参见“itoa”的声明
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\workthreads.cpp(119): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\workthreads.cpp(120): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\workthreads.cpp(122): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\workthreads.cpp(123): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\workthreads.cpp(187): warning C4101: “gestNumStr”: 未引用的局部变量
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\workthreads.cpp(384): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+         ProgressDlg.cpp
+         pptHandController1Dlg.cpp
+     1>f:\program files (x86)\opencv3.0\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\program files (x86)\opencv3.0\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\program files (x86)\opencv3.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\ppthandcontroller1dlg.cpp(202): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\ppthandcontroller1dlg.cpp(347): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+         pptHandController1.cpp
+         myROI.cpp
+     1>f:\program files (x86)\opencv3.0\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\program files (x86)\opencv3.0\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\program files (x86)\opencv3.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         handMotion.cpp
+     1>f:\program files (x86)\opencv3.0\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\program files (x86)\opencv3.0\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\program files (x86)\opencv3.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\handmotion.cpp(137): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\handmotion.cpp(148): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\handmotion.cpp(249): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\handmotion.cpp(290): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\handmotion.cpp(292): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\handmotion.cpp(300): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+         handGesture.cpp
+     1>f:\program files (x86)\opencv3.0\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\program files (x86)\opencv3.0\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\program files (x86)\opencv3.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\handgesture.cpp(33): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\handgesture.cpp(34): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\handgesture.cpp(279): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\handgesture.cpp(280): warning C4018: “>”: 有符号/无符号不匹配
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\handgesture.cpp(357): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\handgesture.cpp(359): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\handgesture.cpp(364): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\handgesture.cpp(527): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\handgesture.cpp(554): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\handgesture.cpp(556): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\handgesture.cpp(557): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\handgesture.cpp(566): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\handgesture.cpp(630): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\handgesture.cpp(641): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\handgesture.cpp(658): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\handgesture.cpp(661): warning C4305: “=”: 从“double”到“float”截断
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\handgesture.cpp(663): warning C4305: “=”: 从“double”到“float”截断
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\handgesture.cpp(665): warning C4305: “=”: 从“double”到“float”截断
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\handgesture.cpp(667): warning C4305: “=”: 从“double”到“float”截断
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\handgesture.cpp(721): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\handgesture.cpp(782): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\handgesture.cpp(797): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\handgesture.cpp(801): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+         gmm.cpp
+     1>f:\program files (x86)\opencv3.0\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\program files (x86)\opencv3.0\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\program files (x86)\opencv3.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\gmm.cpp(32): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\gmm.cpp(33): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\gmm.cpp(62): warning C4804: “<”: 在操作中使用类型“bool”不安全
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\gmm.cpp(197): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\gmm.cpp(200): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\gmm.cpp(203): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\gmm.cpp(208): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\gmm.cpp(248): warning C4305: “=”: 从“double”到“float”截断
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\gmm.cpp(254): warning C4305: “*=”: 从“double”到“float”截断
+         CvvImage.cpp
+     1>f:\program files (x86)\opencv3.0\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\program files (x86)\opencv3.0\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\program files (x86)\opencv3.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         codeBook.cpp
+     1>f:\program files (x86)\opencv3.0\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\program files (x86)\opencv3.0\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\program files (x86)\opencv3.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\codebook.cpp(89): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\codebook.cpp(263): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\codebook.cpp(282): warning C4101: “frPixel”: 未引用的局部变量
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\codebook.cpp(282): warning C4101: “skinPixel”: 未引用的局部变量
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\codebook.cpp(308): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\codebook.cpp(311): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\codebook.cpp(345): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\codebook.cpp(366): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\codebook.cpp(677): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\codebook.cpp(702): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\codebook.cpp(732): warning C4018: “<”: 有符号/无符号不匹配
+         正在生成代码...
+     1>f:\myprojects\ppthandcontroller1\ppthandcontroller1\handmotion.cpp(133): warning C4715: “HandMotion::moveDirection”: 不是所有的控件路径都返回值
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\pptHandController1.res" pptHandController1.rc 
+       Link:
+         F:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\myProjects\pptHandController1\Debug\pptHandController1.exe" /INCREMENTAL /NOLOGO opencv_ts300d.lib opencv_world300d.lib IlmImfd.lib libjasperd.lib libjpegd.lib libpngd.lib libtiffd.lib libwebpd.lib opencv_calib3d300d.lib opencv_core300d.lib opencv_features2d300d.lib opencv_flann300d.lib opencv_highgui300d.lib opencv_imgcodecs300d.lib opencv_imgproc300d.lib opencv_ml300d.lib opencv_objdetect300d.lib opencv_photo300d.lib opencv_shape300d.lib opencv_stitching300d.lib opencv_superres300d.lib opencv_video300d.lib opencv_videoio300d.lib opencv_videostab300d.lib zlibd.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"F:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"F:\myProjects\pptHandController1\Debug\pptHandController1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\myProjects\pptHandController1\Debug\pptHandController1.lib" /MACHINE:X86 Debug\pptHandController1.res
+         Debug\codeBook.obj
+         Debug\CvvImage.obj
+         Debug\gmm.obj
+         Debug\handGesture.obj
+         Debug\handMotion.obj
+         Debug\myROI.obj
+         Debug\pptHandController1.obj
+         Debug\pptHandController1Dlg.obj
+         Debug\ProgressDlg.obj
+         Debug\stdafx.obj
+         Debug\workthreads.obj
+         pptHandController1.vcxproj -> F:\myProjects\pptHandController1\Debug\pptHandController1.exe
+     1>已完成生成项目“F:\myProjects\pptHandController1\pptHandController1\pptHandController1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:26.34
